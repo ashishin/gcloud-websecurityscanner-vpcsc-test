@@ -50,6 +50,10 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
+
+/**
+ * Positive Integration Tests for VPC-SC
+ */
 @RunWith(JUnit4.class)
 public class VpcPositiveTest {
   private static final String IN_VPCSC_GOOGLE_CLOUD_TEST_ENV = "GOOGLE_CLOUD_TESTS_IN_VPCSC";
