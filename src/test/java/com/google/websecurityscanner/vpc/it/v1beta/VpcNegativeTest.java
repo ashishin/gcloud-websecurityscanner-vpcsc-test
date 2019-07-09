@@ -42,9 +42,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
-/**
- * Negative Integration tests for VPC-SC.
- */
+/** Negative Integration tests for VPC-SC. */
 @RunWith(JUnit4.class)
 public class VpcNegativeTest {
 
